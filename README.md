@@ -11,7 +11,13 @@
 
 Порядок выполнения проекта:
 1. Составил <a href="https://docs.google.com/spreadsheets/d/19r6XdUZucTrVRnZmlhK1sMHEVXeJD8kitJhlruKF9P4/edit?gid=1524919368#gid=1524919368">чек-лист</a> проверок приложения «CALENDAR_1.1»
+   ![image](https://github.com/user-attachments/assets/e47d849e-3e84-44ff-ba2e-3c5a033d8554)
+
 2. протестировал программу
+   ![image](https://github.com/user-attachments/assets/bf3282e0-0ac5-42c9-b958-722e339c6f3a)
+
 3. по результатам проведенных проверок завел <a href="https://vil.youtrack.cloud/issues?q=tag:%20%7BCALENDAR_1.1%7D">баг-репорты</a>
+![image](https://github.com/user-attachments/assets/2adc353d-c2ff-49a0-89f3-d9bf9370db14)
+
 4. составил <a href="https://docs.google.com/document/d/1jMlJd3BOqfxkXgCOvonV8whr9GeHjzislcSZqG-DSPA/edit?tab=t.0">отчет о тестировании</a>
 
